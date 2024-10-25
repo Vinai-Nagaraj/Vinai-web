@@ -26,6 +26,7 @@ header {
 nav ul {
   display: flex;
   justify-content: center;
+  margin-left: 1100px;
   gap: 2rem;
 }
 nav a {
